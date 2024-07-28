@@ -1,0 +1,6 @@
+package com.orderService.event;
+
+public class OrderPlacedEvent {
+	 private String orderNumber;
+
+}

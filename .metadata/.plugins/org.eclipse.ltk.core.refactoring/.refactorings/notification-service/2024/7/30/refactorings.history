@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;OrderPlacedEvent.java&apos; to &apos;order-service/src/main/java/com.orderService.event&apos;&#x0D;&#x0A;- Original project: &apos;notification-service&apos;&#x0D;&#x0A;- Destination element: &apos;order-service/src/main/java/com.orderService.event&apos;&#x0D;&#x0A;- Original element: &apos;com.notificationService.OrderPlacedEvent.java&apos;" description="Copy compilation unit" destination="=order-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.orderService.event" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.notificationService{OrderPlacedEvent.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1722080584096" units="1" version="1.0"/>
+</session>
